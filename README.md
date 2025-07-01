@@ -1,4 +1,5 @@
 # 📘 Matrix Multiplication
+2×2 matrix 
 
 ## 📌 Project Description
 
@@ -6,7 +7,7 @@ This project implements **Matrix Multiplication**, which is a core mathematical 
 
 ---
 
-## 🔧 Features
+## 🔧 Features 
 
 - Accepts user-defined matrix sizes and values.
 - Supports multiplication of compatible matrices (NxM × MxP).
